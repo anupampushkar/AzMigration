@@ -1,0 +1,3 @@
+﻿ResourceGroup,TargetVirtualNetwork,MigrateProject,MResourceGroup,TargetSubnetName,TestRecVirtualNetwork,MachineName,TestRecResourceGroup
+RG_HelloWorld,vNet_HelloWorld,AZ-MIG-Demo,AZ-MIG-Demo,database,RG_EastUS-vnet,CL-WIN-DB-01,AZ-MIG-Demo
+RG_HelloWorld,vNet_HelloWorld,AZ-MIG-Demo,AZ-MIG-Demo,Web,RG_EastUS-vnet,CL-WIN-WEB-01,AZ-MIG-Demo
